@@ -1,0 +1,19 @@
+{
+  "name": "practicaasincronismojs",
+  "version": "1.0.0",
+  "description": "Practica realizada en el curso del profesor Oscar Barajas",
+  "main": "index.js",
+  "scripts": {
+    "callback": "node src/callback/challenge.js"
+  },
+  "keywords": [
+    "javascript"
+  ],
+  "author": "Magali Acevedo <magiiee@live.com.ar>",
+  "license": "MIT",
+  "dependencies": {
+    "node-fetch": "^3.2.10",
+    "xmlhttprequest": "^1.8.0"
+  },
+  "type": "module"
+}
